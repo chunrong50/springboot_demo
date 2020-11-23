@@ -1,0 +1,8 @@
+server:
+  servlet:
+    context-path:
+  port: 8080
+girl:
+  name: 小B
+  cupSize: B
+  age: 23

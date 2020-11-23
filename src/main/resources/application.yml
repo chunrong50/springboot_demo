@@ -1,0 +1,15 @@
+spring:
+  profiles:
+    active: dev
+  datasource:
+    driver-class-name:  com.mysql.cj.jdbc.Driver
+    url:  jdbc:mysql://localhost/springboot
+    username: root
+    password: 2020WCRwcr
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+
