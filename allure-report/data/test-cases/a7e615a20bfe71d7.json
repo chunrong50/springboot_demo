@@ -1,0 +1,59 @@
+{
+  "uid" : "a7e615a20bfe71d7",
+  "name" : "demo3()",
+  "fullName" : "com.example.springboot.demo.GirlPropertiesApplicationTests.demo3",
+  "historyId" : "63c58b6c4dfda9eae54891fb22efba83",
+  "time" : {
+    "start" : 1606984246533,
+    "stop" : 1606984246536,
+    "duration" : 3
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "ivydeMac.local"
+  }, {
+    "name" : "thread",
+    "value" : "25042@ivydeMac.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "com.example.springboot.demo.GirlPropertiesApplicationTests"
+  }, {
+    "name" : "testClass",
+    "value" : "com.example.springboot.demo.GirlPropertiesApplicationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "demo3"
+  }, {
+    "name" : "suite",
+    "value" : "com.example.springboot.demo.GirlPropertiesApplicationTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "897397c7cdb3ba46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606983668236,
+        "stop" : 1606983668240,
+        "duration" : 4
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a7e615a20bfe71d7.json",
+  "parameterValues" : [ ]
+}

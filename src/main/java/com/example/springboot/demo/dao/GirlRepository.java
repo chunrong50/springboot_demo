@@ -1,6 +1,6 @@
 package com.example.springboot.demo.dao;
 
-import com.example.springboot.demo.domain.Girl;
+import com.example.springboot.demo.entity.Girl;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
@@ -8,5 +8,5 @@ import java.util.List;
 
 public interface GirlRepository  extends JpaRepository<Girl,Integer> {
 
-    public List<Girl> findByAge(Integer age);
+    List<Girl> findByAge(Integer age);
 }

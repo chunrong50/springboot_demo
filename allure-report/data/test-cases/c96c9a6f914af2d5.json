@@ -1,0 +1,51 @@
+{
+  "uid" : "c96c9a6f914af2d5",
+  "name" : "test1()",
+  "fullName" : "com.example.springboot.demo.AllureTests.test1",
+  "historyId" : "f7fbfb5348d874236b8722a5fedde674",
+  "time" : {
+    "start" : 1606984246359,
+    "stop" : 1606984246441,
+    "duration" : 82
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "ivydeMac.local"
+  }, {
+    "name" : "thread",
+    "value" : "25042@ivydeMac.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "com.example.springboot.demo.AllureTests"
+  }, {
+    "name" : "testClass",
+    "value" : "com.example.springboot.demo.AllureTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "test1"
+  }, {
+    "name" : "suite",
+    "value" : "com.example.springboot.demo.AllureTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c96c9a6f914af2d5.json",
+  "parameterValues" : [ ]
+}

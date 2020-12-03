@@ -1,0 +1,26 @@
+{
+  "total" : 2,
+  "items" : [ {
+    "uid" : "44951ef1c31ab7ca1dc3916b7e3696be",
+    "name" : "com.example.springboot.demo.AllureTests",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 1,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "c74c1a39f334a000be4c4f47ba374384",
+    "name" : "com.example.springboot.demo.GirlPropertiesApplicationTests",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 4
+    }
+  } ]
+}

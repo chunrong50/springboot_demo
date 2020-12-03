@@ -1,8 +1,7 @@
 package com.example.springboot.demo.controller;
 
 
-import com.example.springboot.demo.domain.Girl;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.example.springboot.demo.entity.Girl;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

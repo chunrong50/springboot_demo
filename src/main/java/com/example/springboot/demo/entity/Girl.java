@@ -1,4 +1,4 @@
-package com.example.springboot.demo.domain;
+package com.example.springboot.demo.entity;
 
 
 import org.springframework.stereotype.Component;

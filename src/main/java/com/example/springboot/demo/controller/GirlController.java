@@ -1,7 +1,7 @@
 package com.example.springboot.demo.controller;
 
 import com.example.springboot.demo.dao.GirlRepository;
-import com.example.springboot.demo.domain.Girl;
+import com.example.springboot.demo.entity.Girl;
 import com.example.springboot.demo.service.GirlService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
@@ -22,6 +22,7 @@ public class GirlController {
 
     @Autowired
     private GirlService girlService;
+
 
     /**
      *

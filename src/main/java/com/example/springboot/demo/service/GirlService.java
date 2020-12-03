@@ -2,7 +2,7 @@ package com.example.springboot.demo.service;
 
 
 import com.example.springboot.demo.dao.GirlRepository;
-import com.example.springboot.demo.domain.Girl;
+import com.example.springboot.demo.entity.Girl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
